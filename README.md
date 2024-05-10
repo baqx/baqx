@@ -6,8 +6,9 @@ I'm a skilled developer with experience in web and mobile app development. My go
 
 ### Web Development:
 
+- **Frontend Development**: Expertise at frontend development using HTML, CSS & Javascript
 - **PHP**: 4+ years of experience building dynamic and high-performance websites.
-- **JavaScript**: Proficient in creating interactive web applications.
+- **JavaScript, Jquery, Ajax**: Proficient in creating interactive web applications.
 - **React JS**: Expertise in building modern, efficient, and scalable web applications.
 - **Fullstack**: Knowledgeable in both front-end and back-end development.
 
