@@ -17,6 +17,11 @@ I'm a skilled developer with experience in web and mobile app development. My go
 - **React Native**: Building cross-platform mobile applications for both Android and iOS.
 - **Kivy**: Developing mobile and desktop applications with Python.
 
+### Desktop App Development:
+
+- **Flet**: Building scalable desktop applications with Python and flutter
+
+  
 ### Other Technologies:
 
 - **APIs**: Integration of various APIs for enhanced app functionality.
